@@ -1,6 +1,7 @@
-
 streamlit
-numpy
+plotly
 pandas
+numpy
 scikit-learn
+flask
 joblib
